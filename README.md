@@ -1,4 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Vishnu 👋
+
+🔭 I’m currently working on:  
+- Line Following Robot 🤖  
+- developing Mern stack Application
+
+🌱 I’m currently learning:  
+- Data Structures and Algorithms 📚  
+- Arduino Programming ⚙️  
+- Mern Stack Web Development💻  
+
+👯 I’m looking to collaborate on:  
+- Web designing and development
+- C++ Development
+- IoT Projects
+ 
+💬 Ask me about:    
+- Problem Solving with C++  
+- Web Development Basics
+- IoT Sensors & Modules
+
+📫 How to reach me:  
+- Email: [mvishnukumar491@gmail.com]  
+- LinkedIn: [www.linkedin.com/in/vishnukumar-m-457b752a0]  
+
+😄 Pronouns: He/Him  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mvishnukumar491@gmail.com) 
