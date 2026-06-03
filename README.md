@@ -20,6 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql)
+![REST API]
+![Node JS]
 
 ### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
